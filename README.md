@@ -1,9 +1,15 @@
-<h1 align="center">Hi, I'm Deril Diaz👋</h1>
+<h1 align="center">Hi, I'm Deril Diaz 👋</h1>
 <h3 align="center">Software Developer · Exploring AI & Computer Vision</h3>
 
 <p align="center">
   <a href="https://github.com/D2XPD2XP">
     <img src="https://img.shields.io/badge/GitHub-D2XPD2XP-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/derildiaz">
+    <img src="https://img.shields.io/badge/LinkedIn-derildiaz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/derildiazz">
+    <img src="https://img.shields.io/badge/Instagram-derildiazz-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=D2XPD2XP&style=flat-square&color=blue" alt="Profile views"/>
 </p>
@@ -15,7 +21,7 @@
 - 🌐 I build **web and mobile applications** as a full-stack software developer.
 - 🤖 Currently growing my skills in **Artificial Intelligence** and **Computer Vision**.
 - 🧠 I enjoy turning ideas into clean, scalable, and maintainable products.
-- 📫 Reach me at: **[email / LinkedIn Anda di sini]**
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/derildiaz) · [Instagram](https://www.instagram.com/derildiazz)
 
 ---
 
@@ -29,9 +35,9 @@
 
 **Front-end**
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **AI / Machine Learning**
 
@@ -62,12 +68,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D2XPD2XP&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
 </p>
 
-> The **Most Used Languages** card above is generated automatically from your public repositories, so the percentages always stay up to date.
-
 ---
-
-### 🚀 Currently Learning
-
-- 🔬 Computer Vision (image processing, object detection)
-- 🧩 Machine Learning fundamentals & model deployment
-- 📈 Data analysis with Python (NumPy, Pandas, scikit-learn)
